@@ -2,7 +2,7 @@ import streamlit as st
 import numpy as np
 import joblib
 import json
-import keras
+import tf_keras as keras
  
 # ── Page Config ────────────────────────────────────────────────────────────
 st.set_page_config(
